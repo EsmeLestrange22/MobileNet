@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/631596.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    color:darkcyan;
+    background-color: white;
+    padding: 10px;
+    font-size: 50px;
+    font-family: 'Birthstone', cursive;
+}
+.footer{
+    font-size: 22px;
+    background-color: white;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+canvas{
+    background-color:darkorange;
+}
